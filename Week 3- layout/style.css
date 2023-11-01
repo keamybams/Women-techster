@@ -5,10 +5,13 @@
 }
 
 body {
+    font-family: sans-serif;
+    font-size: .75em;
     display: flex;
     flex-wrap: wrap;
     color: white;
 }
+
 header {
     background-color: rgb(192, 45, 53);
     flex: 3 100%;
@@ -55,3 +58,4 @@ footer {
     align-items: center;
     flex-direction: column;
 }
+
