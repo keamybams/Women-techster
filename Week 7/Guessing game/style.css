@@ -1,0 +1,28 @@
+input {
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 20px;
+    font-size: 30px;
+    color: green;
+}
+
+label  {
+    font-size: 30px;
+}
+
+p {
+    font-size: 30px;
+    color: red;
+}
+
+button:hover {
+    color: blue;
+
+}
+
+button {
+    height: 30px;
+    margin: 10px;
+    width: 10%;
+    font-size: 20px;
+}
